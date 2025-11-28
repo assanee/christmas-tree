@@ -1,0 +1,29 @@
+{
+  "name": "christmas-tree",
+  "version": "1.0.0",
+  "description": "Animated Christmas tree with colorful decorations in the terminal",
+  "main": "christmas-tree.js",
+  "scripts": {
+    "start": "node christmas-tree.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assanee/christmas-tree.git"
+  },
+  "keywords": [
+    "christmas",
+    "tree",
+    "animation",
+    "terminal",
+    "ascii-art",
+    "holiday"
+  ],
+  "author": "assanee",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/assanee/christmas-tree/issues"
+  },
+  "homepage": "https://github.com/assanee/christmas-tree#readme"
+}
